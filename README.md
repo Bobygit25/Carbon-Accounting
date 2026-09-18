@@ -13,9 +13,6 @@ A public github repository describing the carbon accounting methodology of Ignit
   - [The use of spend to estimate emissions](#the-use-of-spend-to-calculate-emissions)
 - [Other files](#other-files)
 
-## License
-
-As the [Exiobase 3 database](https://zenodo.org/record/5589597#.Ymfh8NNBweZ) is [licensed](https://www.exiobase.eu/index.php/terms-of-use) with a [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/), and we in Ignite Procurement have made changes to the original data to adjust outliers and add regional (weighted) averages, this work is shared with the same [license](LICENCE.md):
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
